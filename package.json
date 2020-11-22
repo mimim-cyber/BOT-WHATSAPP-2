@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rokhim-cyber/BOT-WHATSAPP-2"
+    "url": "git+https://github.com/mimim-cyber/BOT-WHATSAPP-2"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdur Rokhim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rokhim-cyber/BOT-WHATSAPP-2/issues"
+    "url": "https://github.com/mimim-cyber/BOT-WHATSAPP-2/issues"
   },
-  "homepage": "https://github.com/rokhim-cyber/BOT-WHATSAPP-2#readme"
+  "homepage": "https://github.com/mimim-cyber/BOT-WHATSAPP-2#readme"
 }
